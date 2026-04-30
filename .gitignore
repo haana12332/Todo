@@ -1,0 +1,19 @@
+# ライブラリ (Node.js)
+node_modules/
+
+# ビルド成果物 (Vite や TypeScript の出力など)
+dist/
+build/
+*.tsbuildinfo
+
+# 環境変数（セキュリティのため必須）
+.env
+.env.*
+
+# OS固有のキャッシュ
+.DS_Store
+Thumbs.db
+
+# IDE設定
+.vscode/
+.idea/
