@@ -1,1 +1,13 @@
-# Todo App 
+# Todo App
+
+## 概要
+Gitを使用しながらバックエンド、フロントエンドを意識したWebApp開発を体系的に練習する。
+### Backend
+環境：Node.js
+言語：typeScript
+フレームワーク：express
+### FrontEnd
+言語：typeScript
+フレームワーク：React
+
+
